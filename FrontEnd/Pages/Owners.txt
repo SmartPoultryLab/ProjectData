@@ -1,0 +1,4 @@
+the main page will have a table that contains all the data 
+and a dialog for managing data.
+full data :
+owner_id , owner_name, owner_phone,owner_address

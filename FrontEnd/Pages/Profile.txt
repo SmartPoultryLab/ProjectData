@@ -1,0 +1,5 @@
+this page will manage user profile 
+
+full data : 
+
+user_fullname, user_phone, user_email,user_password , user_avatar

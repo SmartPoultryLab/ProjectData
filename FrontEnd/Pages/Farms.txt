@@ -1,0 +1,4 @@
+the main page will have a table that contains all the data 
+and a dialog for managing data.
+full data :
+farm_id, farm_owner_id, farm_name, farm_breed, farm_numberofchickens, farm_housing
